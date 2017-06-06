@@ -1,0 +1,23 @@
+F:\Informatyka\Semestr IV\Platformy technologiczne\Lab\siSZARP\lab2\przegladaniePlikow\bin\Debug\przegladaniePlikow.exe.config
+F:\Informatyka\Semestr IV\Platformy technologiczne\Lab\siSZARP\lab2\przegladaniePlikow\bin\Debug\przegladaniePlikow.exe
+F:\Informatyka\Semestr IV\Platformy technologiczne\Lab\siSZARP\lab2\przegladaniePlikow\bin\Debug\przegladaniePlikow.pdb
+F:\Informatyka\Semestr IV\Platformy technologiczne\Lab\siSZARP\lab2\przegladaniePlikow\obj\Debug\przegladaniePlikow.Properties.Resources.resources
+F:\Informatyka\Semestr IV\Platformy technologiczne\Lab\siSZARP\lab2\przegladaniePlikow\obj\Debug\przegladaniePlikow.csproj.GenerateResource.Cache
+F:\Informatyka\Semestr IV\Platformy technologiczne\Lab\siSZARP\lab2\przegladaniePlikow\obj\Debug\przegladaniePlikow.exe
+F:\Informatyka\Semestr IV\Platformy technologiczne\Lab\siSZARP\lab2\przegladaniePlikow\obj\Debug\przegladaniePlikow.pdb
+F:\Informatyka\Semestr IV\Platformy technologiczne\Lab\siSZARP\lab2\przegladaniePlikow\obj\Debug\przegladaniePlikow.Form1.resources
+F:\Informatyka\Semestr IV\Platformy technologiczne\Lab\siSZARP\lab2\przegladaniePlikow\obj\Debug\przegladaniePlikow.Form2.resources
+F:\Informatyka\Semestr IV\Platformy technologiczne\Lab\siSZARP\lab2\przegladaniePlikow\obj\Debug\przegladaniePlikow.csprojResolveAssemblyReference.cache
+S:\SemestrIV\Platformy technologiczne\Lab\siSZARP\lab2\przegladaniePlikow\bin\Debug\przegladaniePlikow.exe.config
+S:\SemestrIV\Platformy technologiczne\Lab\siSZARP\lab2\przegladaniePlikow\obj\Debug\przegladaniePlikow.exe
+S:\SemestrIV\Platformy technologiczne\Lab\siSZARP\lab2\przegladaniePlikow\obj\Debug\przegladaniePlikow.pdb
+D:\xdxd\lab2\przegladaniePlikow\bin\Debug\przegladaniePlikow.exe.config
+D:\xdxd\lab2\przegladaniePlikow\obj\Debug\przegladaniePlikow.exe
+D:\xdxd\lab2\przegladaniePlikow\obj\Debug\przegladaniePlikow.pdb
+D:\xdxd\lab2\przegladaniePlikow\bin\Debug\przegladaniePlikow.exe
+D:\xdxd\lab2\przegladaniePlikow\bin\Debug\przegladaniePlikow.pdb
+D:\xdxd\lab2\przegladaniePlikow\obj\Debug\przegladaniePlikow.csprojResolveAssemblyReference.cache
+D:\xdxd\lab2\przegladaniePlikow\obj\Debug\przegladaniePlikow.Form1.resources
+D:\xdxd\lab2\przegladaniePlikow\obj\Debug\przegladaniePlikow.Form2.resources
+D:\xdxd\lab2\przegladaniePlikow\obj\Debug\przegladaniePlikow.Properties.Resources.resources
+D:\xdxd\lab2\przegladaniePlikow\obj\Debug\przegladaniePlikow.csproj.GenerateResource.Cache
